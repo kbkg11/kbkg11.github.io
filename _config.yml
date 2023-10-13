@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "kdi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "코딩 공부 블로그."
   location         : "Somewhere"
   email            :
   links:
